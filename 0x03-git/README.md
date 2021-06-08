@@ -1,3 +1,0 @@
-#Second README
-
-New directory
